@@ -1,0 +1,10 @@
+! Title: bennyyy999 - Blocklist
+! Expires: 1 day
+! Homepage: https://github.com/bennyyy999/adguard
+! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+! Version: 1
+
+||adclick.g.doubleclick.net^
+||ad26.ad-srv.net^
+||youronlinechoices.com^
+||youradchoices^
